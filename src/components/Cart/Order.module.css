@@ -1,0 +1,16 @@
+.order{
+    text-align: center;
+}
+
+.order button{
+    border-radius: 15px;
+    color: brown;
+    border-color: brown;
+    font-size: 1.2rem;
+    padding: 1%;
+}
+
+.order button:hover{
+    background-color: brown;
+    color: white;
+}
